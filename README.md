@@ -1,7 +1,7 @@
 
 <!--내용 부분-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=276EF7&width=435&lines=Hello+My+Playground+!)](https://git.io/typing-svg)
 
-<br>
 
 <h3>📚 Studying 📚</h3>
 <div>
