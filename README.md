@@ -29,10 +29,9 @@
     </div>
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h2> <div align= "center"></div> <img style="height:190px" src="https://github-readme-stats.vercel.app/api?username=junye0l&show_icons=true&theme=nord&hide_border=true"/>
-  <img style="height:190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junye0l&layout=compact&theme=nord&hide_border=true"
-           /><div> <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junye0l&theme=nord&hide_border=true" width=94%/>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h2> <div align= "center"></div> <img style="width: 400px" style="height:190px" src="https://github-readme-stats.vercel.app/api?username=junye0l&show_icons=true&theme=nord&hide_border=true"/>
+ <div> <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img style="width: 700px" src="https://github-readme-activity-graph.vercel.app/graph?username=junye0l&theme=nord&hide_border=true" width=94%/>
 </a> </div> 
     </div>
     
