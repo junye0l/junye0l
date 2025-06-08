@@ -60,9 +60,9 @@
   <h2>🏆 GitHub Achievements</h2>
 
   <div>
-    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junye0l&layout=compact&theme=github-light&hide_border=true"
+    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junye0l&layout=compact&theme=tokyonight-light&hide_border=true"
          style="height:180px; object-fit: contain; margin-right: 10px;" />
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=junye0l&theme=github-light&hide_border=true"
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=junye0l&theme=tokyonight-light&hide_border=true"
          style="height:180px; object-fit: contain;" />
   </div>
 </div>
