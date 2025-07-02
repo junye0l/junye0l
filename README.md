@@ -1,17 +1,5 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=40&pause=1000&color=66F788&background=000000&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+Junyeol's+Github" alt="Typing SVG" /></a></div>
-
-<br>
-
-<div align="center">
-  <h2>🙋‍♂️ Intro</h2>  
-  <p>
-    💻 사용자 경험을 최우선으로 생각하는 프론트엔드 개발자입니다.<br>
-    🚀 새로운 기술을 배우고 도전하는 것을 즐깁니다.<br>
-    ✨ 깔끔하고 효율적인 코드 작성을 추구합니다.
-  </p>
-</div>
-
 <br>
 
 <div align="center">
@@ -55,15 +43,5 @@
 </div>
 <br>
 
-<div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-
-  <div>
-    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junye0l&layout=compact&theme=tokyonight-light&hide_border=true"
-         style="height:180px; object-fit: contain; margin-right: 10px;" />
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=junye0l&theme=tokyonight-light&hide_border=true"
-         style="height:180px; object-fit: contain;" />
-  </div>
-</div>
 
 
