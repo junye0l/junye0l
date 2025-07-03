@@ -1,6 +1,6 @@
 # Welcome to My Home! 🏠
 
-**My Skills**
+**Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)
 
