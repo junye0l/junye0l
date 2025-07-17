@@ -1,14 +1,14 @@
 # Welcome to My Home! 🏠
 
-**Skills**
+_**Skills**_
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)
 
-**Tools**
+_**Tools**_
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vscode)](https://skillicons.dev)
 
-**studying**
+_**Studying**_
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind)](https://skillicons.dev)
 
