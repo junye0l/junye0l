@@ -6,7 +6,7 @@ _**Skills**_
 
 _**Tools**_
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vscode,discord)](https://skillicons.dev)
 
 _**Studying**_
 
