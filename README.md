@@ -29,9 +29,12 @@
 
 <br/>
 
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-00C7B7?style=for-the-badge&logo=git&logoColor=white)
-![lint-staged](https://img.shields.io/badge/lint--staged-0D1117?style=for-the-badge&logo=git&logoColor=white)
+![lint-staged](https://img.shields.io/badge/lint--staged-0D1117?style=for-the-badge&logo=git&logoColor=white)<br />
 ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </details>
 
