@@ -1,4 +1,3 @@
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271210/noticon/sageach1qrmmyfufwli1.gif" alt="description" width="100" height="100" />
 <details>
 <summary><i><b>Languages</b></i><br /></summary>
 
@@ -61,3 +60,21 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </details>
+
+</br>
+
+__Projects__
+
+<a href="https://github.com/junye0l/WHYNE">WHYNE</a>
+<sub>2025.09 ~ 2025.10 (Team)</sub> </br>
+<a href="https://github.com/junye0l/coworkers">Coworkers</a>
+<sub>2025.10 ~ 2025.11 (Team)</sub> </br>
+
+</br>
+
+__Study__
+
+<a href="https://junye0l.github.io/core-javascript">Core Javascript</a>
+<sub>2025.08 ~ 2025.10</sub> </br>
+<a href="https://github.com/FE18-Survivor/react-docs-study">React Docs</a>
+<sub>2025.11 ~ 진행중</sub> </br>
