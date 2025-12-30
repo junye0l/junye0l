@@ -18,7 +18,9 @@ __Projects__
 <a href="https://github.com/junye0l/coworkers">Coworkers</a>
 <sub>2025.10 ~ 2025.11 (Team)</sub><br/>
 <a href="https://github.com/junye0l/badge-generator">badge-generator</a>
-<sub>2025.12 ~ 진행중 (Solo)</sub>
+<sub>2025.12 ~ 진행중 (Solo)</sub></br>
+<a href="">SWYP 프로젝트</a>
+<sub>2025.12 ~ ing (Team)</sub>
 
 <br/>
 
@@ -27,4 +29,6 @@ __Study__
 <a href="https://junye0l.github.io/core-javascript">Core Javascript</a>
 <sub>2025.08 ~ 2025.10</sub><br/>
 <a href="https://github.com/FE18-Survivor/react-docs-study">React Docs</a>
-<sub>2025.11 ~ 진행중</sub>
+<sub>2025.11 ~ 2026.01</sub><br/>
+<a href="https://github.com/FE18-Survivor/react-docs-study-reference">React Docs Reference</a>
+<sub>2026.01 ~ 진행중</sub>
