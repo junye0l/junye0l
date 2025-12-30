@@ -20,7 +20,7 @@ __Projects__
 <a href="https://github.com/junye0l/badge-generator">badge-generator</a>
 <sub>2025.12 ~ 진행중 (Solo)</sub></br>
 <a href="">SWYP 프로젝트</a>
-<sub>2025.12 ~ ing (Team)</sub>
+<sub>2025.12 ~ 진행중 (Team)</sub>
 
 <br/>
 
