@@ -28,7 +28,7 @@ __Study__
 
 <a href="https://junye0l.github.io/core-javascript">Core Javascript</a>
 <sub>2025.08 ~ 2025.10</sub><br/>
-<a href="https://github.com/FE18-Survivor/react-docs-study">React Docs</a>
+<a href="https://github.com/FE18-Survivor/react-docs-study-learn">React Docs Learn</a>
 <sub>2025.11 ~ 2026.01</sub><br/>
 <a href="https://github.com/FE18-Survivor/react-docs-study-reference">React Docs Reference</a>
 <sub>2026.01 ~ 진행중</sub>
