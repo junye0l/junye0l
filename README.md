@@ -31,4 +31,4 @@ __Study__
 <a href="https://github.com/FE18-Survivor/react-docs-study-learn">React Docs Learn</a>
 <sub>2025.11 ~ 2026.01</sub><br/>
 <a href="https://github.com/FE18-Survivor/react-docs-study-reference">React Docs Reference</a>
-<sub>2026.01 ~ 진행중</sub>
+<sub>2026.01 ~ 2026.02</sub>
