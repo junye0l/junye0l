@@ -1,5 +1,3 @@
-<img align="left" src="https://badge-generators.vercel.app/api/pokemon?user=junye0l&chain=bulbasaur" alt="My Pokemon" />
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6)<br/>
 ![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)<br/>
@@ -20,7 +18,7 @@ __Projects__
 <a href="https://github.com/junye0l/badge-generator">badge-generator</a>
 <sub>2025.12 ~ 진행중 (Solo)</sub></br>
 <a href="https://github.com/yamoyo/yamoyo_FE">yamoyo</a>
-<sub>2025.12 ~ 진행중 (Team)</sub>
+<sub>2025.12 ~ 2026.02 (Team)</sub>
 
 <br/>
 
