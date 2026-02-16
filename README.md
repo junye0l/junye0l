@@ -16,7 +16,7 @@ __Projects__
 <a href="https://github.com/junye0l/coworkers">Coworkers</a>
 <sub>2025.10 ~ 2025.11 (Team)</sub><br/>
 <a href="https://github.com/junye0l/badge-generator">badge-generator</a>
-<sub>2025.12 ~ 진행중 (Solo)</sub></br>
+<sub>2025.12 ~ 진행중</sub></br>
 <a href="https://github.com/yamoyo/yamoyo_FE">yamoyo</a>
 <sub>2025.12 ~ 2026.02 (Team)</sub>
 
