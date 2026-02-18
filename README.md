@@ -37,11 +37,11 @@ _2025.08 ~ 2025.10_ <br />
 
 <br />
 
-_2025.12 ~ 2026.02_ <br />
+_2025.10 ~ 2025.11_ <br />
 <a href="https://github.com/FE18-Survivor/react-docs-study-learn">react-docs-study-learn</a> **| <mark>리액트 공식문서 스터디</mark>**
 
 <br />
 
-_2025.09 ~ 2025.10_ <br />
+_2025.12 ~ 2026.02_ <br />
 <a href="https://github.com/FE18-Survivor/react-docs-study-reference">react-study-reference</a> **| <mark>리액트 공식문서 레퍼런스 스터디</mark>**
 
